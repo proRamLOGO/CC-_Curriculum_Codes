@@ -1,0 +1,3 @@
+Write a program which inputs an array, then asks for a number q. Then in next q lines it asks for 2 numbers in every line let's say l and r. For each pair of l and r print the sum of elements from index l to index r, both inclusive. 
+Make your program robust like what happens if size of array is 10 but l or r is given as 13 ??? 
+
